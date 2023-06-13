@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serena</h1>
-<h3 align="center">A passionate Full Stack Developer from Italy</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Italy</h3>
 
 <br>
 
